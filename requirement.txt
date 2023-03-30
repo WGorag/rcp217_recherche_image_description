@@ -8,3 +8,5 @@ lxml
 beautifulsoup4
 torchtext
 ipywidgets
+transformers
+nltk
