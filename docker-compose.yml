@@ -1,7 +1,7 @@
 version: '3'
 services:
   tf-jupiter:
-    container_name: tf-jupiter-rcp217
+    container_name: tf-jupiter-rcp217_final
     build: 
       context: .
       dockerfile: .DockerFile

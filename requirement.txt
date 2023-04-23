@@ -1,12 +1,7 @@
 jupyterlab
-pandas
-matplotlib
-scikit-learn
 Pillow
-opencv-python
-lxml
-beautifulsoup4
 torchtext
 ipywidgets
 transformers
 nltk
+sentence-transformers
